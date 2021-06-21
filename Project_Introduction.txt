@@ -1,4 +1,19 @@
 Introduction-
 An application  ' AID ' to promote donation and create a platform for donors and recipients. This app can be really useful for NGO's and other charitable groups who aim to provide help and support for those in need. As well as can become aid for those who seek help and through this app they can reach out to others and ask for a helping hand.
 
+FUNCTIONS:
+Aid consist of many tools to make the app more interactive. It includes
+
+1) User profile , and requires the user to sign in.
+
+2) A Feed where a donor can upload the picture or a clip of the item he wants to donate . The uploaded content will include option to text  or request helping hand to the donor.
+
+3) Search bar to search for associations and support groups or any active donor.
+
+4) Users can ask for help by using the "Need helping hand ' feature with which one can request a service or commodity (could be categorised) for himself or other ,He can describe the need or the situation and can add picture or clips along to it.
+
+5) Other features like donating anonymously or search in helping hand categories to find recipients for particular thing.
+
+6) Events and campaign could be promoted using the feed.
+
 
