@@ -1,0 +1,4 @@
+Introduction-
+An application  ' AID ' to promote donation and create a platform for donors and recipients. This app can be really useful for NGO's and other charitable groups who aim to provide help and support for those in need. As well as can become aid for those who seek help and through this app they can reach out to others and ask for a helping hand.
+
+
